@@ -1,0 +1,2 @@
+danny@gmail.com --> contraseña: admin123
+user@gmail.com --> contraseña: admin123
